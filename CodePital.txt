@@ -1,0 +1,34 @@
+# Bienvenu à Codepital:
+>Dans cet exercice nous aurons des malades qui iront ce faire débuger chez un doctor. 
+Le doctor les diagnostiquera et leur préscrira un remède. 
+Par la suite les malades irons à la pharmacie afin d'acheter leur remède puis le prendrons et 
+seront guérri.
+​
+
+​
+|nom|maladie|argent|poche|etatSante|traitement|goTo|takeCare|paye|
+|---|---|---|---|---|---|---|---|---|
+|Marcus|mal indenté|100|vide|malade
+|Optimus|unsave|200|vide|malade
+|Sangoku|404|80|vide|malade
+|DarthVader|azmatique|110|vide|malade
+|Semicolon|syntaxError|60|vide|malade
+​
+
+​
+
+
+​
+### Tarif des traitements
+|Traitement|prix|
+|---|---|
+|`ctrl+maj+f`|60€
+|`saveOnFocusChange`|100€
+|`CheckLinkRelation`|35€
+|`Ventoline`|40€
+|`f12+doc`|20€
+​
+# Vérification
+>Grâce à votre débugger suivé à la trace l'évolution de chacun de vos patients. 
+Vérifier bien qu'il quitte à chaque fois la salle d'attente avant d'entrer dans le cabinet et
+ qu'ils sortent bien du cabinet avant de laisser quelqu'un d'autre entré.
